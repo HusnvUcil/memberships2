@@ -23,6 +23,7 @@ app.listen(port, () => {
     console.log(`Server running on port ${port}`);
 });
 
+//commit ulang
 // #region sequilize
 // const express = require('express');
 // const { Sequelize, DataTypes } = require('sequelize');
